@@ -34,6 +34,11 @@ Passionné par le développement en C et web, j’aime explorer de nouvelles tec
 
 <br>
 
+**Plateforme CRAPAA –** [Plateforme-CRAPAA](https://github.com/Zeyn-n/Plateforme-CRAPAA)  
+> Portail web régional des Activités Physiques Adaptées (Alsace), développé en partenariat technique avec le **Master 2 APAS** (PHP natif, PDO, MySQL, LeafletJS).
+
+<br>
+
  **DOOjons et Dragons –** [D&D](https://github.com/Zeyn-n/DOOjons-Et-Dragons)  
 > Une implémentation orientée objet en Java du jeu de rôle **Donjons & Dragons**.
 
@@ -53,14 +58,12 @@ Passionné par le développement en C et web, j’aime explorer de nouvelles tec
 <br>
 
 - Je bosse sur un **jeu** avec **GDScript** dans le cadre des mes études
-    - Un projet d’une durée de **3 mois**, réalisé en **groupe de 3**
+    - Un projet d’une durée de **3 mois**, réalisé en **groupe de 4**
     - Le sujet porte sur les **audits d’entreprises**
 <br>
 
-- J’approfondis mes compétences en **C** avec un projet personnel : une **Image Toolbox** créée entièrement from scratch
-    - Un projet que je fais **seul**
-    - L’objectif est de développer une application capable d’effectuer diverses **transformations d’images** (blur, black & white, inversion, etc.)
-
+- Je développe la **Plateforme CRAPAA** dans le cadre d'un partenariat technique avec les étudiants du **Master 2 APAS** de l'Université de Strasbourg
+    - Conception d'un portail régional complet (10 rubriques, annuaire cartographié, back-office d'administration et conformité RGPD)
 
 <br>
 
